@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SKYPROGRAM</title>
-  <link href="../static/css/styles.min.css" rel="stylesheet">
+  <link href="static/css/styles.min.css" rel="stylesheet">
 </head>
 
 <body>
@@ -16,8 +16,8 @@
           <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#skyprogram"></use>
         </svg>
       </a>
-      <a href="/bookmarks.html" class="header__bookmark-btn">
-        <img src="../static/img/bookmark.png" alt="" class="header__bookmark-icon" width="28">
+      <a href="/bookmarks" class="header__bookmark-btn">
+        <img src="static/img/bookmark.png" alt="" class="header__bookmark-icon" width="28">
         <span class="header__bookmark-counter">{{bookmarks_amount}}</span>
       </a>
     </div>
@@ -51,6 +51,10 @@
           <div class="item__counter">
             <img src="../static/img/eye.png" alt="" class="item__counter-icon" width="26">
             <span class="item__counter-text">{{post.views_count}}</span>
+          </div>
+          <div class="item__counter">
+            <img src="../static/img/like2.png" alt="" class="item__counter-icon" width="26">
+            <span class="item__counter-text">{{post.likes_count}}</span>
           </div>
         </div>
         <div class="item__post-bottom">

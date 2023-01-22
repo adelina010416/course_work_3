@@ -1,0 +1,127 @@
+2023-01-22 17:14:06,928 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-22 17:14:06,929 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-22 17:14:06,943 [INFO]  * Restarting with stat
+2023-01-22 17:14:07,901 [WARNING]  * Debugger is active!
+2023-01-22 17:14:07,920 [INFO]  * Debugger PIN: 639-094-415
+2023-01-22 17:14:20,301 [INFO] Запрос /api/posts/3
+2023-01-22 17:14:20,306 [INFO] 127.0.0.1 - - [22/Jan/2023 17:14:20] "GET /api/posts/3 HTTP/1.1" 200 -
+2023-01-22 17:14:26,254 [INFO] Запрос /api/posts
+2023-01-22 17:14:26,260 [INFO] 127.0.0.1 - - [22/Jan/2023 17:14:26] "GET /api/posts HTTP/1.1" 200 -
+2023-01-22 17:14:39,351 [INFO] Запрос /api/posts/3
+2023-01-22 17:14:39,352 [INFO] 127.0.0.1 - - [22/Jan/2023 17:14:39] "GET /api/posts/3 HTTP/1.1" 200 -
+2023-01-22 17:15:05,677 [INFO] Запрос /api/posts/6
+2023-01-22 17:15:05,679 [INFO] 127.0.0.1 - - [22/Jan/2023 17:15:05] "GET /api/posts/6 HTTP/1.1" 200 -
+2023-01-22 17:46:06,163 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-22 17:46:06,163 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-22 17:46:06,175 [INFO]  * Restarting with stat
+2023-01-22 17:46:07,061 [WARNING]  * Debugger is active!
+2023-01-22 17:46:07,078 [INFO]  * Debugger PIN: 639-094-415
+2023-01-22 18:00:44,771 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-22 18:00:44,771 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-22 18:00:44,787 [INFO]  * Restarting with stat
+2023-01-22 18:00:45,717 [WARNING]  * Debugger is active!
+2023-01-22 18:00:45,734 [INFO]  * Debugger PIN: 639-094-415
+2023-01-22 18:01:00,341 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:00] "GET / HTTP/1.1" 200 -
+2023-01-22 18:01:00,626 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:00] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:01:00,688 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:00] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:00,723 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:00] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:00,764 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:00] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:08,596 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:08] "GET /posts/1 HTTP/1.1" 200 -
+2023-01-22 18:01:08,655 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:08] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:01:08,682 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:08] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:08,690 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:08] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:08,692 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:08] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:11,547 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:11] "GET / HTTP/1.1" 200 -
+2023-01-22 18:01:11,617 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:11] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:01:11,621 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:11] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:11,650 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:11] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:11,650 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:11] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:23,424 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:23] "GET /search?s=lk HTTP/1.1" 200 -
+2023-01-22 18:01:23,494 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:23] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:01:25,884 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:25] "GET / HTTP/1.1" 200 -
+2023-01-22 18:01:25,943 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:25] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:01:25,968 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:25] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:25,985 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:25] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:26,009 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:26] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:27,919 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:27] "GET /posts/1 HTTP/1.1" 200 -
+2023-01-22 18:01:28,011 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:28] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:01:28,023 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:28] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:28,028 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:28] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:28,031 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:28] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:33,278 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:33] "GET /users/leo HTTP/1.1" 200 -
+2023-01-22 18:01:33,341 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:33] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:01:33,368 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:33] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:33,373 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:33] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:33,375 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:33] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:41,572 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:41] "GET / HTTP/1.1" 200 -
+2023-01-22 18:01:41,645 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:41] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:01:41,651 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:41] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:41,677 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:41] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:01:41,678 [INFO] 127.0.0.1 - - [22/Jan/2023 18:01:41] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:24:45,636 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-22 18:24:45,637 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-22 18:24:45,649 [INFO]  * Restarting with stat
+2023-01-22 18:24:46,651 [WARNING]  * Debugger is active!
+2023-01-22 18:24:46,678 [INFO]  * Debugger PIN: 639-094-415
+2023-01-22 18:24:54,136 [INFO] 127.0.0.1 - - [22/Jan/2023 18:24:54] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-01-22 18:24:54,474 [INFO] 127.0.0.1 - - [22/Jan/2023 18:24:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-01-22 18:24:54,513 [INFO] 127.0.0.1 - - [22/Jan/2023 18:24:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-01-22 18:24:54,804 [INFO] 127.0.0.1 - - [22/Jan/2023 18:24:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-22 18:24:54,899 [INFO] 127.0.0.1 - - [22/Jan/2023 18:24:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:22,786 [INFO]  * Detected change in 'C:\\Users\\Adelina\\Desktop\\skypro\\course_work_3\\utils\\utils.py', reloading
+2023-01-22 18:25:22,990 [INFO]  * Restarting with stat
+2023-01-22 18:25:24,480 [WARNING]  * Debugger is active!
+2023-01-22 18:25:24,497 [INFO]  * Debugger PIN: 639-094-415
+2023-01-22 18:25:30,231 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:30] "GET / HTTP/1.1" 200 -
+2023-01-22 18:25:30,491 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:30] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:25:30,542 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:30] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:30,545 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:30] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:30,626 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:30] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:32,446 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:32] "GET /posts/1 HTTP/1.1" 200 -
+2023-01-22 18:25:32,522 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:32] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:25:32,540 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:32] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:32,545 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:32] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:32,547 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:32] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:38,181 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:38] "GET /users/leo HTTP/1.1" 200 -
+2023-01-22 18:25:38,269 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:38] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:25:38,293 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:38] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:38,293 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:38] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:38,296 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:38] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:44,075 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:44] "GET / HTTP/1.1" 200 -
+2023-01-22 18:25:44,166 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:44] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:25:44,171 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:44] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:44,175 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:44] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:44,178 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:44] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:49,848 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:49] "GET /search?s=еда HTTP/1.1" 200 -
+2023-01-22 18:25:49,913 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:49] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:25:49,939 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:49] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:49,946 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:49] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:49,948 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:49] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:55,257 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:55] "GET /search?s=а HTTP/1.1" 200 -
+2023-01-22 18:25:55,330 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:55] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 18:25:55,335 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:55] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:55,337 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:55] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 18:25:55,346 [INFO] 127.0.0.1 - - [22/Jan/2023 18:25:55] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 18:27:04,721 [INFO]  * Detected change in 'C:\\Users\\Adelina\\Desktop\\skypro\\course_work_3\\api\\views.py', reloading
+2023-01-22 18:27:04,853 [INFO]  * Restarting with stat
+2023-01-22 18:27:06,156 [WARNING]  * Debugger is active!
+2023-01-22 18:27:06,173 [INFO]  * Debugger PIN: 639-094-415
+2023-01-22 18:27:48,115 [INFO] Запрос /api/posts
+2023-01-22 18:27:48,119 [INFO] 127.0.0.1 - - [22/Jan/2023 18:27:48] "GET /api/posts HTTP/1.1" 200 -
+2023-01-22 18:27:54,910 [INFO] Запрос /api/posts/3
+2023-01-22 18:27:54,913 [INFO] 127.0.0.1 - - [22/Jan/2023 18:27:54] "GET /api/posts/3 HTTP/1.1" 200 -
+2023-01-22 20:45:46,243 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-22 20:45:46,244 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-22 20:45:46,257 [INFO]  * Restarting with stat
+2023-01-22 20:45:47,133 [WARNING]  * Debugger is active!
+2023-01-22 20:45:47,151 [INFO]  * Debugger PIN: 639-094-415
+2023-01-22 20:45:59,044 [INFO] 127.0.0.1 - - [22/Jan/2023 20:45:59] "GET / HTTP/1.1" 200 -
+2023-01-22 20:45:59,291 [INFO] 127.0.0.1 - - [22/Jan/2023 20:45:59] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-22 20:45:59,316 [INFO] 127.0.0.1 - - [22/Jan/2023 20:45:59] "[36mGET /static/img/like2.png HTTP/1.1[0m" 304 -
+2023-01-22 20:45:59,326 [INFO] 127.0.0.1 - - [22/Jan/2023 20:45:59] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-22 20:45:59,332 [INFO] 127.0.0.1 - - [22/Jan/2023 20:45:59] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
